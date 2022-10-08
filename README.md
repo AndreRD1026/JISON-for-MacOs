@@ -15,3 +15,6 @@ That is all for node.js on Apple silicon chip
 To install jison for Mac <br>
 `Use the command: npm install jison`<br>
 Check the version with `jison -V`
+## Use jison
+Use this repository to test jison<br>
+https://github.com/zaach/jison
