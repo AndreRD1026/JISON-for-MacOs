@@ -1,4 +1,4 @@
-# Install Jison on MacOs with chip M1
+# Install Jison on MacOs with Apple silicon chip
 ## Before installing Jison need have installed node.js
 If you don't have node.js can follow this<br>
 ## Install nvm
